@@ -1,7 +1,7 @@
-## INTRODUCTION 🌟
+## 🥀 INTRODUCTION 
   ####   *Hello everyone iam SHRESTHI SAHA here from netaji subhash engineering college , presently in my 1st year of electrical engineering..*
   
-## PERSONAL DETAILS 🌟
+## 🌟 PERSONAL DETAILS
 - NAME- *shresthi saha*
 - AGE- *18*
 - RESIDENCE - *kolkata* 
@@ -9,4 +9,7 @@
 - COLLEGE NAME -*Netaji subhash engineering college*
 - DEGREE PERSUING- *B.tech in electrical engineering 
 
-## 🌟 you can follow me on linkedin [here](https://www.linkedin.com/in/shresthi-saha-33b0a7220/) 🌟
+## 💠 you can follow me on linkedin [here](https://www.linkedin.com/in/shresthi-saha-33b0a7220/) 💠
+
+
+## THANK YOU 🌻
