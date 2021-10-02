@@ -1,6 +1,9 @@
-## 🥀 INTRODUCTION 
-  ####   *Hello everyone iam SHRESTHI SAHA here from netaji subhash engineering college , presently in my 1st year of electrical engineering..*
+ 
+# *Hello everyone iam SHRESTHI SAHA * 
   
+## 🥀 INTRODUCTION 
+    Iam from netaji subhash engineering college , presently in my 1st year of electrical engineering..*
+   
 ## 🌟 PERSONAL DETAILS
 - NAME- *shresthi saha*
 - AGE- *18*
